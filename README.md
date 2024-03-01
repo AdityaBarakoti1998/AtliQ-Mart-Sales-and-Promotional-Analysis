@@ -12,6 +12,9 @@ AtliQ Mart, a leading retail giant in southern India, recently conducted extensi
 2. Promotion Analysis: Evaluated promotion types for maximum revenue impact and optimal balance between sales volume and profit margins.
 3. Product and Category Insights:Pinpointed categories and products with significant sales uplift. Tailored promotions for maximum effectiveness.
 
+## Live Dashboard link: https://lnkd.in/gM3hHziE
+## GitHub Repository link: https://lnkd.in/ggJ98Efx
+
 ### Key Insights:
 
 1. Promotion Types:BOGOF and cashback offers drove the highest revenue and sales compared to simple percentage-based discounts.
@@ -32,10 +35,3 @@ ROI Variation:Diwali promotions had highly positive ROI, whereas Sankranti promo
 5. Optimize Promotions by Festival:Tailor promotional strategies to specific festivals.
 6. Product Analysis:Gain insights into customer preferences and address issues with low-selling products.
 7. Explore Cashback Potential:Maximize benefits of 500 Cashback promotions.
-
-### Recommendations
-
-1. Targeted Promotions: Consider targeted discounts or promotions within product categories rather than blanket offerings (like 50% off everything).
-2. Experiment with different percentage discounts and alternative promotions.
-3. Re-evaluate Personal Care Pricing: Carefully examine the performance and pricing of Personal Care items, particularly those that saw revenue drops when heavily discounted.
-4. Understand Festival Dynamics: Analyze the differing consumer behaviors during Diwali and Sankranti festivals to tailor future promotions for maximum impact.
